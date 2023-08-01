@@ -172,8 +172,8 @@ github.com/redis/go-redis/v9 v9.0.5 h1:CuQcn5HIEeK7BgElubPP8CGtE0KakrnbBSTLjathl
 github.com/redis/go-redis/v9 v9.0.5/go.mod h1:WqMKv5vnQbRuZstUwxQI195wHy+t4PuXDOjzMvcuQHk=
 github.com/robfig/cron/v3 v3.0.1 h1:WdRxkvbJztn8LMz/QEvLN5sBU+xKpSqwwUO1Pjr4qDs=
 github.com/robfig/cron/v3 v3.0.1/go.mod h1:eQICP3HwyT7UooqI/z+Ov+PtYAWygg1TEWWzGIFLtro=
-github.com/rogeecn/atom v1.0.4 h1:GT9XL+jCCu7a4Fmu8/TsZBzSbdvF+zzsSz12E1ZBL5Q=
-github.com/rogeecn/atom v1.0.4/go.mod h1:uT3tmB8pALm1NaNRcd6pVy0IR/fO8H5eZrWrFlGmPoU=
+github.com/rogeecn/atom v1.0.6 h1:BxrIUe/ZsMObRvJpMz/cYgJpe6qRzVbQ+56YdnZULjI=
+github.com/rogeecn/atom v1.0.6/go.mod h1:8U9r0H8wfNtYA+mCjtQVgWHeXpV7i9Q5JSa7gQeojfo=
 github.com/rogeecn/atom-addons/providers/database/redis v0.0.0-20230619031713-8c5d4f1db1e5 h1:4a3+K4kbltpGJOSSrJ55aCU5yDZoKCwdCyRk5UrPq7A=
 github.com/rogeecn/atom-addons/providers/database/redis v0.0.0-20230619031713-8c5d4f1db1e5/go.mod h1:rZRRr6puZ64ujeJP8Ksf0zTZK69zDnV1lgTm8VVmidc=
 github.com/rogeecn/atom-addons/providers/log v0.0.0-20230619031713-8c5d4f1db1e5 h1:9PjXlhac++yfiHVuFX3ffJypcSsxXR0y3KO34tQCQw8=
