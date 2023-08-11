@@ -3,6 +3,7 @@ module github.com/atom-providers/service-queue
 go 1.18
 
 require (
+	github.com/atom-providers/app v0.0.0-20230811021217-98a085634a0a
 	github.com/atom-providers/log v0.0.0-20230801024233-a65b67115343
 	github.com/atom-providers/queue v0.0.0-20230731095553-05c31d87e9fb
 	github.com/rogeecn/atom v1.0.6
